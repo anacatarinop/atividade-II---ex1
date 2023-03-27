@@ -6,7 +6,8 @@ Este é o repositório da atividade em Java relacionada à matéria de Laborató
 
 Para a visualização dos exercícios propostos da atividade, é necessário que você acesse a biblioteca externa:
 
-- [Atividade II](https://drive.google.com/file/d/1sj5NGKzjDprtrnN_UtKbRWnHHbaj1w31/view)
+- [Atividade II - Questões](https://drive.google.com/file/d/1sj5NGKzjDprtrnN_UtKbRWnHHbaj1w31/view)
 
-
-
+Para acesso de todos os exercícios, acesse abaixo:
+- [Atividade II - Ex.2](https://github.com/anacatarinop/atividade-II---Ex2.git)
+- [Atividade II - Ex.3](https://github.com/anacatarinop/atividadeII---Ex3.git)
